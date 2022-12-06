@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.algoCardClickable {
+  transition: translate 0.15s;
+}
+
+.algoCardClickable:hover {
+  translate: 0 -10px;
+}
+
+.algoCardClickable:hover {
+  translate: 0 -10px;
+}
